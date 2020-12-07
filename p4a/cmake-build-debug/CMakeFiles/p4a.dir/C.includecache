@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p4a/mapreduce.c
+assert.h
+-
+pthread.h
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+mapreduce.h
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p4a/mapreduce.h
+
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p4a/mapreduce.h
+
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p4a/wordcount.c
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+unistd.h
+-
+errno.h
+-
+time.h
+-
+mapreduce.h
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p4a/mapreduce.h
+

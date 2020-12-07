@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537test2/main.c
+stdio.h
+-
+stdio.h
+-
+sys/types.h
+-
+unistd.h
+-
+string.h
+-
+
