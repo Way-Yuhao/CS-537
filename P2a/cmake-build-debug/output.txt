@@ -1,0 +1,13 @@
+total 160
+drwxr-xr-x@ 12 wayyuhao  staff    384 Feb 12 18:04 .
+drwxr-xr-x@  7 wayyuhao  staff    224 Feb 12 18:04 ..
+-rw-r--r--@  1 wayyuhao  staff   6148 Feb 11 23:25 .DS_Store
+-rw-r--r--@  1 wayyuhao  staff  22815 Feb 10 16:18 CMakeCache.txt
+drwxr-xr-x@ 14 wayyuhao  staff    448 Feb 12 18:04 CMakeFiles
+-rw-r--r--@  1 wayyuhao  staff   5084 Feb 10 16:18 Makefile
+-rwxr-xr-x   1 wayyuhao  staff  18612 Feb 12 18:04 P2a
+-rw-r--r--@  1 wayyuhao  staff   6392 Feb 10 16:18 P2a.cbp
+-rw-r--r--@  1 wayyuhao  staff    669 Feb 11 23:25 a.txt
+-rw-r--r--@  1 wayyuhao  staff      9 Feb 11 23:02 batch.txt
+-rw-r--r--@  1 wayyuhao  staff   1456 Feb 10 16:18 cmake_install.cmake
+-rw-------   1 wayyuhao  staff      0 Feb 12 18:04 output.txt

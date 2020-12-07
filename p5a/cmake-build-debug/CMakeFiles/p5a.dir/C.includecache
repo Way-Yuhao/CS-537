@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p5a/xfsck.c
+stdlib.h
+-
+stdio.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/mman.h
+-
+limits.h
+-
+string.h
+-
+assert.h
+-
+execinfo.h
+-
+./xv6-sp20/include/types.h
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p5a/xv6-sp20/include/types.h
+./xv6-sp20/include/fs.h
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p5a/xv6-sp20/include/fs.h
+./xv6-sp20/include/stat.h
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p5a/xv6-sp20/include/stat.h
+
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p5a/xv6-sp20/include/fs.h
+
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p5a/xv6-sp20/include/stat.h
+
+/Users/wayyuhao/OneDrive - UW-Madison/UW/Spring 2020/CS 537/p5a/xv6-sp20/include/types.h
+

@@ -1,6 +1,5 @@
-.D_Store
-p4a-backup/
-test4/
+.DS_Store
 xv6-sp20/
-.idea/
+test4/
 test/
+p4a-backup/
