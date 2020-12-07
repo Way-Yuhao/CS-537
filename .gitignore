@@ -1,4 +1,4 @@
-*.D_Store
+*.DS_Store
 p4a-backup/
 test4/
 xv6-sp20/
